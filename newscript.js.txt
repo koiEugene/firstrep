@@ -3,3 +3,6 @@ its new script
 func main()
 {
 }
+
+func fix(){
+}
