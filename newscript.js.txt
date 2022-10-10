@@ -1,1 +1,5 @@
 its new script
+
+func main()
+{
+}
