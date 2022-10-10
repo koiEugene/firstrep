@@ -1,1 +1,6 @@
 its new script
+func newF(){
+}
+func main()
+{
+}
