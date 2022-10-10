@@ -2,4 +2,7 @@ its new script
 
 func main()
 {
+1
+2
+4
 }
