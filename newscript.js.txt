@@ -12,4 +12,6 @@ func main()
 
 func fix(){
 new test date for merg
+
+func newF(){
 }
